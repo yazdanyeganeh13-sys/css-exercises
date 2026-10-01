@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.yazdan,
+.samin{
+    font-size: 28px;
+    font-family: helvetica,"times new roman",sans-serif;
+}
+
+.yazdan{
+    background-color: black;
+    color: white;
+}
+
+.samin{
+    background-color: yellow;
+}

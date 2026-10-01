@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family: verdana,"dejavu sans",sans-serif;
+}
+.cooler{
+    font-size: 24px;
+}
+#secend{
+    color: blue;
+    font-size: 36px;
+}
+#four{
+    background-color: rgb(81, 216, 81);
+    font-size: 24px;
+    font-weight: bold;
+}
